@@ -1,0 +1,287 @@
+
+INNOVATE AI HACKATHON
+Official Rulebook & Participant Handbook
+Rules • Policies • Logistics • Judging • Prizes • Support
+
+Version 1.0
+Organizing Committee
+This document governs all participants, mentors, judges, volunteers and organizers for the duration of the event.
+ 
+Table of Contents
+1. Introduction & Event Overview
+2. Eligibility & Registration
+3. Rules & Regulations
+4. Judging Criteria & Process
+5. Logistics
+6. Complaints & Grievance Redressal
+7. Prizes & Recognition
+8. Intellectual Property, Data & Legal Policies
+9. Communication Channels
+10. Frequently Asked Questions (Chatbot Knowledge Base)
+Appendix A: Emergency & Key Contacts
+ 
+1. Introduction & Event Overview
+The Innovate AI Hackathon is a 36-hour, in-person hackathon that brings together student developers, designers, and innovators to build functional artificial intelligence solutions to real-world problems. This handbook is the single source of truth for every rule, policy, and logistical detail governing the event. All registered participants, mentors, judges, volunteers, and staff are expected to read and abide by this document in full.
+This document is also the reference source for the event's website chatbot. Any question a participant asks the chatbot — from serious policy questions to casual or unusual ones — should be answerable using the content below. Sections are written to be self-contained so they can be retrieved and quoted individually.
+1.1 Event Snapshot
+Detail	Information
+Event Name	Innovate AI Hackathon
+Format	In-person, 36 hours (Day 1, 9:00 AM – Day 2, 9:00 PM)
+Theme	Applied Artificial Intelligence for Real-World Impact
+Eligibility	Currently enrolled undergraduate/postgraduate students
+Team Size	2 to 4 members per team (solo participation not permitted)
+Registration Fee	As specified on the registration website; refundable per Section 3.5
+Venue	Main Campus Auditorium & Innovation Labs (Blocks A–C)
+Prize Pool	As published on the event website prize page
+1.2 Guiding Principles
+•	Fairness — every team competes under identical rules, resources, and time limits.
+•	Safety — physical and emotional safety of every participant takes priority over event schedule.
+•	Transparency — judging criteria, prize structure, and policies are published in advance and not changed mid-event.
+•	Inclusivity — the event welcomes participants regardless of background, identity, or experience level.
+•	Responsible AI — participants are encouraged to consider ethics, bias, and safety in what they build.
+ 
+2. Eligibility & Registration
+2.1 Who Can Participate
+•	Participants must be currently enrolled students (undergraduate, postgraduate, or diploma) at a recognized institution at the time of the event.
+•	A valid college/university ID card must be presented at on-site check-in.
+•	There is no upper age limit; a minimum age of 17 applies. Participants under 18 must submit a signed parental/guardian consent form (Appendix A) before check-in.
+•	Working professionals may participate only in the designated “Open Track” if one is announced separately; this rulebook's Student Track rules assume student eligibility unless stated otherwise.
+2.2 Team Formation
+•	Teams must have a minimum of 2 and a maximum of 4 members.
+•	Cross-college and cross-city teams are allowed.
+•	Each participant may register with only one team. Registering with multiple teams will result in removal from all teams.
+•	Teams may use the “Team Finder” channel on the event Discord/WhatsApp community to find teammates before the event.
+•	Team composition is locked 24 hours before the event start. No swaps or additions are permitted after this point except in the case of a participant withdrawal, which must be reported to the organizing desk.
+2.3 Registration Process
+1.	Create an account on the official registration website.
+2.	Fill in individual details for every team member (name, institution, year of study, email, phone number, dietary preference, T-shirt size).
+3.	Submit a one-line idea abstract (optional at registration; mandatory before the event for track allocation).
+4.	Pay the registration fee (if applicable) via the integrated payment gateway.
+5.	Receive a confirmation email with a unique Team ID — this ID is required for all future communication, check-in, and support tickets.
+2.4 Registration Deadlines
+Milestone	Deadline
+Registration opens	As announced on the website
+Early-bird registration closes	2 weeks before event
+Final registration closes	3 days before event
+Team lock / idea abstract due	24 hours before event
+On-site check-in window	Day 1, 7:00 AM – 8:45 AM
+2.5 Fees, Cancellations & Refunds
+•	If a registration fee applies, it covers participation, meals, and event kit for the duration of the hackathon.
+•	Cancellations made 7+ days before the event are eligible for a full refund minus payment gateway charges.
+•	Cancellations within 7 days of the event are non-refundable but may be transferred to another eligible student once, by writing to the organizing team.
+•	No-shows without prior communication are not eligible for any refund.
+ 
+3. Rules & Regulations
+3.1 Problem Statements & Tracks
+Teams may choose from officially published tracks (for example: Healthcare AI, FinTech AI, Climate & Sustainability, Agentic Tools, Accessibility, and Open Innovation) or propose an original problem statement, subject to organizer approval before the event starts. Track selection is locked once hacking begins and cannot be changed.
+3.2 What You May Bring and Use
+•	Personal laptops, chargers, mice, headphones, and reasonable personal peripherals.
+•	Open-source libraries, frameworks, and publicly available datasets, provided their licenses are respected and cited.
+•	Pre-trained AI/ML models (e.g., open-weight LLMs, vision models) as a foundation, provided the team's own application logic, fine-tuning, prompt engineering, or integration work is original and built during the event.
+•	Cloud AI APIs (OpenAI, Anthropic, Google, AWS, Azure, etc.) within the free-tier or provided-credit limits; teams are responsible for their own API costs beyond provided credits.
+3.3 What Is Not Allowed
+•	Submitting a project, codebase, or substantial component that was built before the hackathon start time. Prior boilerplate scaffolding (e.g., a fresh framework template) is allowed; working product features are not.
+•	Plagiarizing another team's idea, code, or design without attribution.
+•	Misrepresenting an AI-generated output as a live demo (e.g., pre-recording a “live” model response and replaying it as real-time).
+•	Attempting to access, disrupt, or test the security of event infrastructure, sponsor systems, or other teams' systems without written permission (see Section 3.7).
+•	Using another participant's registration or impersonating a team member during judging.
+•	Bringing pre-written pitch decks that misrepresent the actual state of the working prototype.
+3.4 Responsible & Permitted Use of AI Tools
+Because this is an AI-focused hackathon, the use of AI coding assistants and generative tools (such as Claude, ChatGPT, GitHub Copilot, or similar) during development is explicitly permitted and encouraged — this is a hackathon about AI, not a hackathon that bans it. However:
+•	Teams must be able to explain and defend every part of their submitted code and architecture during judging.
+•	AI-generated code that a team cannot explain will be treated as unoriginal work for scoring purposes.
+•	Any third-party model, dataset, or API used must be disclosed in the submission form, including its name, provider, and license.
+3.5 Code of Conduct
+The event operates under a zero-tolerance harassment policy. This applies to all participants, mentors, judges, sponsors, volunteers, and staff, in all event spaces — including online community channels — for the full duration of the event.
+•	Harassment includes offensive verbal comments, deliberate intimidation, stalking, unwelcome physical contact or attention, and disruption of talks or events.
+•	Sexual language and imagery is not appropriate at any event venue, including talks.
+•	Participants asked to stop any harassing behavior are expected to comply immediately.
+•	Organizers may take any action deemed appropriate, including warning the offender, expulsion from the event with no refund, and involvement of campus security or local law enforcement where necessary.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, contact a staff member immediately — identifiable by their organizer lanyard — or use the confidential complaint channel described in Section 6.
+3.6 Submission Rules
+6.	All projects must be pushed to a public or organizer-accessible GitHub repository before the submission deadline.
+7.	Submission package must include: source code, a README with setup instructions, a 2–3 minute demo video, and a short slide deck (max 10 slides).
+8.	The submission form closes automatically at the deadline; late submissions are not accepted under any circumstances, including technical difficulty on the participant's end. Teams are strongly advised to submit at least 30 minutes before the deadline.
+9.	Each team may only make one final submission. Uploading a new version after the deadline will disqualify the team.
+3.7 Security & Fair Play
+•	Any team wishing to test the security of hackathon-provided infrastructure must first obtain written permission from the organizing technical team.
+•	Any attempt to sabotage another team's work, Wi-Fi access, or hardware will result in immediate disqualification of the offending team.
+•	Organizers reserve the right to inspect any team's commit history and development logs to verify originality.
+3.8 Disqualification Criteria
+Violation	Consequence
+Plagiarism or pre-built project	Immediate disqualification
+Harassment or Code of Conduct breach	Warning, expulsion, or escalation to authorities depending on severity
+Sabotage of another team or infrastructure	Immediate disqualification, possible ban from future events
+Late submission	Submission not scored
+Undisclosed use of banned tools/datasets	Score penalty or disqualification, at judges' discretion
+ 
+4. Judging Criteria & Process
+4.1 Judging Rounds
+•	Round 1 — Mentor Screening: mentors review all submissions for completeness and track fit; feedback given, no elimination.
+•	Round 2 — Preliminary Judging: a panel scores all submissions against the rubric below; top teams advance to finals.
+•	Round 3 — Finals: shortlisted teams present a live 5-minute demo plus 3-minute Q&A to the final judging panel.
+4.2 Scoring Rubric
+Criterion	Weight	What Judges Look For
+Innovation & Originality	25%	Novelty of the idea and approach relative to existing solutions
+Technical Implementation	25%	Working prototype, code quality, appropriate and sound use of AI/ML
+Real-World Impact & Feasibility	20%	Practical usefulness, market or social relevance, scalability
+User Experience & Design	15%	Usability, interface design, overall polish
+Presentation & Demo	15%	Clarity of pitch, quality of live demo, ability to answer questions
+4.3 Judging Panel
+The judging panel is composed of a mix of faculty members, industry AI practitioners, and startup founders. Panel composition is published on the event website at least one week before the event. Judges do not score teams they are affiliated with (as a mentor, professor, or employer of a team member).
+4.4 Disputes on Scoring
+Judging decisions are final. Teams who believe a scoring error occurred (e.g., a criterion was clearly not applied) may file a written appeal at the help desk within 1 hour of results being announced. The Chief Judge and event director will review and respond within 24 hours.
+ 
+5. Logistics
+5.1 Venue & Facilities
+•	Hacking space: Innovation Labs, Blocks A–C, with dedicated seating per team, power outlets, and high-speed Wi-Fi.
+•	Wi-Fi capacity is provisioned for heavy simultaneous API and model traffic; a wired backup connection is available at the help desk for teams experiencing issues.
+•	Quiet zones and nap areas are available for overnight participants.
+•	Rest rooms, water stations, and charging stations are marked on the venue map provided at check-in.
+5.2 Compute & Technical Resources
+•	Cloud credits (from sponsor partners such as AWS, GCP, Azure, or OpenAI/Anthropic API credits) will be distributed to each registered team at check-in, subject to availability.
+•	A limited number of GPU-enabled machines are available on a first-come, first-served booking basis via the help desk; sign-up sheet opens at check-in.
+•	Teams needing specific hardware (e.g., IoT kits, Raspberry Pi, cameras) for their track must request it during registration; availability is not guaranteed for late requests.
+5.3 Food & Refreshments
+•	All meals are provided: dinner on Day 1, midnight snacks, breakfast, lunch, and dinner on Day 2, plus continuous tea/coffee and water.
+•	Dietary preferences (vegetarian, vegan, Jain, gluten-free, allergies) are collected at registration — please ensure yours is accurate, as on-site changes may not be accommodated.
+•	Meal timings are announced via the event app and posted on venue screens; meals are served in designated dining zones only, to keep hacking areas clean and equipment safe.
+•	Outside food is permitted but must not be stored in shared refrigerators reserved for catering.
+5.4 Accommodation
+•	For outstation participants, dormitory-style accommodation is available on a request basis at registration, subject to capacity.
+•	Accommodation is gender-segregated with dedicated wardens/volunteers on each floor.
+•	Check-in for accommodation opens the evening before the event; participants must carry their college ID and confirmation email.
+•	Basic bedding is provided; participants should bring personal toiletries and a change of clothes.
+•	Curfew and floor-access rules will be shared at accommodation check-in and must be followed for safety.
+5.5 Travel
+•	Participants are responsible for arranging their own travel to and from the venue unless a travel reimbursement policy is explicitly published for a specific track or sponsor category.
+•	A shuttle service between the nearest railway station/bus stand and the venue may be arranged; check the event website closer to the date for the schedule.
+5.6 Mentorship
+•	Mentors (industry professionals and faculty) are available throughout the hacking period at the Mentor Desk and can also be booked via 15-minute slots through the event app.
+•	Mentors provide technical guidance and feedback but do not write code for teams or influence judging.
+5.7 Health & Safety
+•	A first-aid station staffed by trained volunteers/medical personnel is available on-site for the full duration of the event.
+•	In case of a medical emergency, contact the nearest volunteer or call the emergency helpline number printed on your participant badge.
+•	Participants are encouraged to take breaks and rest; organizers may request a visibly unwell participant to pause and rest.
+•	Fire exits and assembly points are marked on the venue map; please familiarize yourself with them at check-in.
+ 
+6. Complaints & Grievance Redressal
+6.1 How to Raise a Complaint
+•	In-person: visit the Help Desk, staffed 24/7 during the event, identifiable by organizer lanyards and signage.
+•	Digital: submit a ticket through the “Support” tab on the event website or app, tagged with your Team ID.
+•	Confidential/sensitive issues (harassment, safety concerns): use the confidential complaint form linked on the event website, or approach any organizer directly and request privacy — you do not have to explain the issue publicly.
+•	Emergency: call the emergency helpline number printed on your badge and posted at every entrance.
+6.2 Escalation Matrix
+Level	Handled By	Typical Response Time
+Level 1	Volunteer at Help Desk	Immediate, on the spot
+Level 2	Track Coordinator	Within 30 minutes
+Level 3	Organizing Committee / Event Director	Within 2 hours
+Level 4 (Code of Conduct / Safety)	Chief Organizer + Campus Security, as needed	Immediate
+6.3 Types of Complaints Typically Handled
+•	Technical issues: Wi-Fi, power outlets, compute access, registration/submission portal errors.
+•	Logistics issues: food, accommodation, seating, missing kit items.
+•	Judging concerns: see the scoring dispute process in Section 4.4.
+•	Conduct and safety concerns: handled with strict confidentiality per Section 3.5.
+6.4 Commitment to Participants
+Every complaint logged through official channels receives an acknowledgment within 15 minutes during event hours and a resolution or status update within the timelines above. Participants will never be penalized for raising a good-faith complaint.
+ 
+7. Prizes & Recognition
+7.1 Prize Categories
+Category	Typical Recognition
+Overall Winner (1st Place)	Cash prize, cloud credits, trophy, internship interviews with sponsor companies
+1st Runner-Up (2nd Place)	Cash prize, cloud credits, trophy
+2nd Runner-Up (3rd Place)	Cash prize, trophy
+Best Track-Specific Solution	Sponsor-specific prize per track (e.g., Best Healthcare AI Solution)
+Best Beginner Team	Recognition for first-time hackathon participants
+People's Choice Award	Voted on by all participants, announced at closing ceremony
+7.2 Prize Disbursement
+•	Exact prize amounts and sponsor-provided perks are published on the official prize page of the event website and may be updated up to the event start date.
+•	Cash prizes are disbursed via bank transfer to the team's nominated representative within 30 working days of the event, subject to submission of required documents (ID proof, bank details, PAN where applicable).
+•	As per applicable tax law, TDS (Tax Deducted at Source) may apply to cash prizes above the statutory threshold; winners will be informed of the exact deduction before disbursement.
+•	Non-cash prizes (credits, swag, goodies) are distributed at the closing ceremony or shipped within 2 weeks if unavailable on-site.
+7.3 Certificates
+•	All participants who check in and submit a valid project receive a Certificate of Participation.
+•	Category winners receive a Certificate of Achievement in addition to their prize.
+•	Mentors, judges, and volunteers receive a Certificate of Contribution.
+•	Certificates are issued digitally within 7 days of the event via the email used at registration.
+7.4 Results Announcement
+Final results are announced live at the closing ceremony and published on the event website and social media channels within 24 hours. Individual score breakdowns are available on request via the Help Desk for 7 days after the event.
+ 
+8. Intellectual Property, Data & Legal Policies
+8.1 Project Ownership
+Participants retain full ownership and intellectual property rights to the projects they build during the hackathon, except where a specific sponsor challenge states otherwise (such terms will be clearly disclosed on that challenge's page before teams opt in). By submitting a project, teams grant the organizers a non-exclusive, royalty-free license to display, demo, and promote the project for event-related and promotional purposes.
+8.2 Use of Third-Party Data & APIs
+•	Teams must only use datasets and APIs they are licensed to use, and must credit all sources in their submission.
+•	Any use of personal or sensitive data (health records, biometric data, etc.) in a prototype must use synthetic or properly anonymized data — real personal data of third parties may not be used without documented consent.
+8.3 Media & Photography Consent
+By attending the event, participants consent to being photographed and recorded for event documentation and promotional use (social media, website, sponsor reports). Participants who do not wish to be featured may collect a “no photo” sticker for their badge at check-in, and organizers will make reasonable effort to honor this.
+8.4 Liability Waiver
+Participation is voluntary. Organizers, sponsors, and the host institution are not liable for loss of personal property, or for injuries not caused by organizer negligence, occurring on the venue premises. Participants attending overnight are responsible for the safekeeping of personal belongings; lockers are available on request at the help desk.
+8.5 Data Privacy
+Personal information collected during registration (name, contact details, institution) is used solely for event administration, communication, and — where explicitly opted in — sharing shortlisted candidate profiles with sponsor companies for recruitment purposes. Participants may request a copy or deletion of their data after the event by contacting the organizing team.
+ 
+9. Communication Channels
+9.1 Before the Event
+•	Official website — registration, rulebook, FAQs, prize details, and track descriptions.
+•	Community group (Discord/WhatsApp/Telegram) — team finding, announcements, and general Q&A.
+•	Email — individual confirmations, reminders, and important deadline notices.
+9.2 During the Event
+•	Event mobile app / web dashboard — live schedule, mentor booking, submission portal, and push notifications.
+•	Stage/PA announcements and venue screens — time-critical updates (meal timings, deadline reminders, emergency instructions).
+•	Help Desk — in-person support for any issue, staffed for the full duration of the event.
+•	Website chatbot — available 24/7 for instant answers to rules, logistics, and policy questions using this handbook as its knowledge base.
+9.3 After the Event
+•	Results and winner announcements via website, email, and social media.
+•	Feedback form sent to all participants — responses directly shape the next edition of the hackathon.
+•	Certificate and prize disbursement updates via email.
+ 
+10. Frequently Asked Questions (Chatbot Knowledge Base)
+This section is written specifically to help the event website chatbot answer both common and unusual participant questions accurately, using plain, direct answers grounded in the sections above.
+General
+Q: Can I participate alone?
+A: No. Every team needs a minimum of 2 members, up to a maximum of 4 (Section 2.2).
+Q: I'm not a student anymore, can I join?
+A: The Student Track requires current enrollment. Check if an Open Track is announced separately for non-students (Section 2.1).
+Q: Can I switch my team after registering?
+A: Team composition locks 24 hours before the event. After that, changes are allowed only in case of a withdrawal, reported to the help desk (Section 2.2).
+Rules & AI Usage
+Q: Am I allowed to use ChatGPT or Claude to help me code?
+A: Yes. AI coding assistants are explicitly permitted — this is an AI hackathon. You just need to be able to explain any AI-generated code during judging (Section 3.4).
+Q: Can I use a pre-trained model like an open-source LLM?
+A: Yes, as long as your own application logic, integration, or fine-tuning work is original and built during the event, and the model is disclosed in your submission (Section 3.2).
+Q: What happens if I submit after the deadline?
+A: Late submissions are not accepted under any circumstances. Submit at least 30 minutes early to be safe (Section 3.6).
+Food, Stay & Logistics
+Q: Is food included?
+A: Yes, all meals and refreshments for the full 36 hours are provided, based on the dietary preference you submit at registration (Section 5.3).
+Q: I forgot to mention I'm vegan at registration, can it be fixed on-site?
+A: On-site changes may not always be possible, so please double check your dietary preference before the event; ask at the Help Desk and we'll try our best (Section 5.3).
+Q: Is accommodation available?
+A: Yes, for outstation participants who request it at registration, subject to availability, and it is gender-segregated (Section 5.4).
+Complaints & Safety
+Q: Someone is bothering me at the event, what do I do?
+A: Contact any organizer immediately, use the confidential complaint form on the website, or visit the Help Desk — harassment is handled under a strict zero-tolerance policy (Sections 3.5 and 6.1).
+Q: I disagree with my score, can I appeal?
+A: Yes, file a written appeal at the Help Desk within 1 hour of results being announced (Section 4.4).
+Prizes
+Q: When do we get the prize money?
+A: Within 30 working days after the event, via bank transfer, subject to submitting required documents. Tax may be deducted as per law (Section 7.2).
+Q: Do all participants get a certificate?
+A: Yes, everyone who checks in and submits a valid project gets a Certificate of Participation; winners get an additional Certificate of Achievement (Section 7.3).
+Just-for-fun / Silly Questions
+Q: Can my AI build itself and let me sleep?
+A: Nice try! You still need to be able to explain every part of your project during judging, so make sure you understand what you submit (Section 3.4).
+Q: Is coffee unlimited?
+A: Tea and coffee are available continuously throughout the event — hack responsibly (Section 5.3).
+Q: Can I nap during the hackathon?
+A: Absolutely — quiet zones and nap areas are set up for exactly this purpose. Rest is part of building well (Section 5.1).
+ 
+Appendix A: Emergency & Key Contacts
+Contact	Purpose
+Emergency Helpline (printed on badge)	Medical emergencies, safety incidents
+Help Desk (venue, 24/7 during event)	General queries, technical and logistics support
+Confidential Complaint Form (website)	Harassment or Code of Conduct concerns
+Track Coordinators (per track, listed in app)	Track-specific or problem-statement questions
+Chief Organizer / Event Director	Final escalation for unresolved issues
+ 
+This handbook may be updated prior to the event; the version hosted on the official website is always the authoritative and most current copy. Any changes made after registration opens will be communicated via email and the community channel.
